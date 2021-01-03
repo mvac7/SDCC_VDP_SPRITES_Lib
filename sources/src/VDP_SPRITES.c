@@ -1,12 +1,10 @@
-/* ============================================================================= 
-  SDCC VDP SPRITE Functions Library (object type)
+/* =============================================================================   
+  VDP SPRITE MSX SDCC Library (fR3eL Project)
   Version: 1.0 (04/05/2019)
-  Author: mvac7/303bcn
+  Author: mvac7 [mvac7303b@gmail.com]
   Architecture: MSX
   Format: C Object (SDCC .rel)
-  Programming language: C
-  WEB: 
-  mail: mvac7303b@gmail.com
+  Programming language: C and Z80 assembler
 
   Description:
     Open Source library with functions to directly access to sprites of the 
@@ -14,10 +12,11 @@
     
     It uses the functions from the MSX BIOS, so it is designed to create 
     applications in ROM format.
+      
+    It's complemented with the VDP TMS9918A MSX SDCC Library (fR3eL Project).
+     https://github.com/mvac7/SDCC_TMS9918A_Lib
     
-    It's complemented with the VDP_TMS9918A_Lib
-    
-    For SDCC 3.6.0 or higher. 
+    For SDCC 3.9 or higher.
     
   History of versions:
     v1.1 (2/2/2017)                   

@@ -1,16 +1,9 @@
 /* ============================================================================= 
-  SDCC MSX SPRITE Functions Library (object type)
-  Version: 1.2 (04/05/2019) May the 4th be with you! 
-  Author: mvac7/303bcn
-  Architecture: MSX
-  Format: header (.h)
-  Programming language: C
-  WEB: 
-  mail: mvac7303b@gmail.com                
+  VDP SPRITES MSX SDCC Library (fR3eL Project)          
 ============================================================================= */
 
-#ifndef  __VDP_SPRITE_H__
-#define  __VDP_SPRITE_H__
+#ifndef  __VDP_SPRITES_H__
+#define  __VDP_SPRITES_H__
 
 
 // boolean
